@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 
 
 	//used to create individual .exe for each section
-
+	//blah blah blah
 	get_circle_properties();
 	printf("\n");
 	get_rectangle_properties();
